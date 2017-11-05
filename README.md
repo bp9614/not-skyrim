@@ -1,6 +1,6 @@
-##HackUMass V - !Skyrim
+# HackUMass V - !Skyrim
 
-#Members
+## Team Members
 *Matt
 *Jack
 *Brian
